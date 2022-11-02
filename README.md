@@ -1,15 +1,15 @@
 # Device-information
-Bat Script used to get device information for windows OS only
-
-This batch file use to get some data about the machine working with windows OS only
-don't need administration level
- it can get 
-Device name
-Manufacturer Brand Name:
-Model
-Serial Number
-Processor
-Total Memory
+-Bat Script used to get device information for windows OS only
+-
+-This batch file use to get some data about the machine working with windows OS only
+-- don't need administration level
+-it can get 
+-Device name
+-Manufacturer Brand Name:
+-Model
+-Serial Number
+-Processor
+-Total Memory
 Used  Memory
 Ethernet MacAddress
 Wi-Fi MacAddress
