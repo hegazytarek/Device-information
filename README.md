@@ -17,4 +17,4 @@ Wi-Fi MacAddress
 then it ask the user for his 
 HR ID
 Device Code (Related to IT Team)
-After that it will extract all this data in text file with the same direction of the batch file and named it with  Device Code
+After that it will extract all this data in text file with the same direction of the batch file and named it with  Device Code input
